@@ -227,5 +227,5 @@ VineOS is licensed under the GNU General Public License v3.0. See
 ---
 
 <div align="center">
-  <sub>Made with 🌿 by <a href="https://github.com/Hexadecinull">Hexadecinull</a> and contributors</sub>
+  <sub>Made by Walker599</sub>
 </div>
